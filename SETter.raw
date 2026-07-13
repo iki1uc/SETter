@@ -1,0 +1,15 @@
+NAME = SETter
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = SETter
+DIM = T
+
+ROLLE = Setzen / Zustand / Konfiguration
+FUNKTION = Setzt Werte, Positionen, Frequenzen und Übergänge im System
+
+POSITION = T‑Ebene (Set)
+LINK = D1 (HEAD) + D2 (HTML) + GEO (R) + FREQ (S)
+TMP-LAEUFER = SYQ
+
+STATUS = STABIL
+READY = 100%
